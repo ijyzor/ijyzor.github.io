@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ijyzor.github.io/sitemap/sitemap.txt
